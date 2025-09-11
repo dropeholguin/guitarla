@@ -1,9 +1,11 @@
 # 🎸 Guitar Store App
 
-![React](https://img.shields.io/badge/React-18-blue?logo=react)  
-![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite)  
-![License](https://img.shields.io/badge/License-MIT-green)  
-![Status](https://img.shields.io/badge/Status-Active-success)  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-5-purple?logo=vite" alt="Vite"/>
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License"/>
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status"/>
+</p>
 
 A lightweight and modern guitar store web application built with **React + Vite**.  
 Browse guitars, view details, and manage your shopping cart with a **clean, fast, and responsive** interface.
@@ -48,10 +50,10 @@ Browse guitars, view details, and manage your shopping cart with a **clean, fast
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/tu-usuario/guitar-store.git
+git clone https://github.com/dropeholguin/guitarla.git
 
 # Navigate to the project folder
-cd guitar-store
+cd guitarla
 
 # Install dependencies
 npm install
